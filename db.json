@@ -1,16 +1,12 @@
 {
-  "posts":[
+  "contacts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "Ajesh N",
+      "email": "AJESH.N@GMAIL.COM",
+      "phone": "09400429931",
+      "id": 1677629071081,
+      "fav": false
     }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+    
   ]
 }
